@@ -182,11 +182,6 @@ AI gợi ý liên hệ
 
 📸 Screenshots
 
-📌 (Thêm ảnh app của bạn vào đây)
-
-![Login](./images/login.png)
-![Home](./images/home.png)
-![Admin](./images/admin.png)
 📄 Tài liệu chi tiết
+[Uploading 12_VoMinhHan_1050080096.pdf…]()
 
-👉 Xem báo cáo PDF
