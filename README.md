@@ -108,15 +108,11 @@ Luồng hoạt động:
 ---
 
 ## 🔄 Luồng hoạt động chính
-
-```text
 User → Login/Register → Firebase Auth
      → Fetch Data → Firestore
      → Display UI → Flutter
-
-📱 Các màn hình chính
+Các màn hình chính
 🔹 Đăng ký (Sign Up)
-
 
 Nhập email + password
 
@@ -191,25 +187,3 @@ AI gợi ý liên hệ
 📄 Tài liệu chi tiết
 
 👉 Xem báo cáo PDF
-
-🙏 Lời cảm ơn
-
-Xin chân thành cảm ơn giảng viên hướng dẫn và các bạn đã hỗ trợ trong quá trình thực hiện đề tài.
-
-📚 Tài liệu tham khảo
-
-Programming Flutter – Carmine Zaccagnino
-
-Firebase Essentials – Neil Smyth
-
-Learning Dart – Ivo Balbaert
-
-⭐ Đánh giá
-
-Dự án giúp:
-
-Nắm vững Flutter & Firebase
-
-Hiểu rõ authentication & database
-
-Phát triển app thực tế
