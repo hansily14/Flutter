@@ -182,6 +182,7 @@ AI gợi ý liên hệ
 
 📸 Screenshots
 
-📄 Tài liệu chi tiết
-[Uploading 12_VoMinhHan_1050080096.pdf…]()
+📄 Tài liệu chi tiết: file FPF 12_VoMinhHan_1050080096 ở trên
+
+
 
