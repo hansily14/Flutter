@@ -111,6 +111,7 @@ Luồng hoạt động:
 User → Login/Register → Firebase Auth
      → Fetch Data → Firestore
      → Display UI → Flutter
+---
   
 Các màn hình chính
 🔹 Đăng ký (Sign Up)
